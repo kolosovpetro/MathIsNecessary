@@ -12,3 +12,7 @@ PDF: [тык](https://kolosovpetro.github.io/pdf/MathIsNecessary.pdf)
 
 - [![Build PDF](https://github.com/kolosovpetro/MathIsNecessary/actions/workflows/build-pdf.yml/badge.svg)](https://github.com/kolosovpetro/MathIsNecessary/actions/workflows/build-pdf.yml)
 - [![Build and Deploy PDF](https://github.com/kolosovpetro/MathIsNecessary/actions/workflows/build-and-deploy-pdf.yml/badge.svg)](https://github.com/kolosovpetro/MathIsNecessary/actions/workflows/build-and-deploy-pdf.yml)
+
+# Acknowledgements
+
+Inspired by [Ketteiteki](https://github.com/Ketteiteki)
