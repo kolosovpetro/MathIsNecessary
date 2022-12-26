@@ -13,7 +13,7 @@ on:
   workflow_dispatch:
 
 env:
-  FILE_NAME: "LatexRussianTemplate"
+  FILE_NAME: "MathIsNecessary"
 
 jobs:
   build-pdf:

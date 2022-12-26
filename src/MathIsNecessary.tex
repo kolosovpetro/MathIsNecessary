@@ -18,6 +18,7 @@
 \usepackage[left=1in,right=1in,bottom=1in,top=1in]{geometry}
 \usepackage[pdfpagelabels,hyperindex,colorlinks=true,linkcolor=blue,urlcolor=magenta,citecolor=green]{hyperref}
 \usepackage{setspace}
+\usepackage{csquotes}
 \onehalfspacing
 \emergencystretch=1em
 
@@ -34,18 +35,18 @@
 
 \numberwithin{equation}{section}
 
-\title{LaTeX шаблон на русском}
+\title{Нужна ли математика?}
 \date{} %leave it blank, looks better
-\author{Петро Колосов}
+\author{Разумовский Р.}
 
 \hypersetup{
-    pdftitle={LaTeX шаблон на русском},
+    pdftitle={Нужна ли математика?},
     pdfsubject={
-        Your Subject List
+        Нужна ли математика, математика в жизни человека
     },
-    pdfauthor={Петро Колосов},
+    pdfauthor={Разумовский Р.},
     pdfkeywords={
-        Your Keywords list
+        Нужна ли математика, математика в жизни человека
     }
 }
 
@@ -56,9 +57,6 @@
         \input{sections/abstract.tex}
     \end{abstract}
 
-    \keywords{2010 \emph{Mathematics Subject Classification.} Primary ..; Secondary \dots}
-    \keywords{\emph{Key words and phrases.} Ключевое слово 1, Ключевое слово 2 \dots}
-
 
     \section{Введение} \label{sec:introduction}
     \input{sections/introduction.tex}
@@ -67,6 +65,4 @@
     \section{Заключение}\label{sec:conclusions}
     \input{sections/conclusions.tex}
 
-    \bibliographystyle{unsrt}
-    \bibliography{LatexRussianTemplateReferences}
 \end{document}
