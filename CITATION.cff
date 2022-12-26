@@ -1,16 +1,16 @@
 cff-version: 1.2.0
-title: LaTeX шаблон на русском
+title: Нужна ли математика?
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
 authors:
-  - given-names: Petro
-    family-names: Kolosov
+  - given-names: Разумовский
+    family-names: Р.
     email: kolosovp94@gmail.com
     orcid: 'https://orcid.org/0000-0002-6544-8880'
 identifiers:
   - type: url
     value: >-
-      https://github.com/kolosovpetro/latex-russian-template
-    description: LaTeX шаблон на русском Source files
+      https://github.com/kolosovpetro/MathIsNecessary
+    description: Нужна ли математика?
